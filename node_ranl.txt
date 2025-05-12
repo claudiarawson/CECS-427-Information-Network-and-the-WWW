@@ -1,0 +1,5 @@
+https://dblp.org/pid/s/PaulGSpirakis.html 0.3316253512547943
+https://dblp.org/db/conf/stoc/stoc80.html 0.2677137283788866
+https://dblp.org/pid/l/ErrolLLloyd.html 0.19252516026464425
+https://dblp.org/pid/e/PErdos.html 0.10406788005083761
+https://dblp.org/db/conf/focs/focs77.html 0.10406788005083761
